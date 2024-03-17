@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "lipton": {
+      "img": "https://img.freepik.com/free-vector/black-tea-pack-triangle-bags-infusion-organic-herbs-vector-realistic-drink_1268-18072.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1700611200&semt=ais"
+    },
+    "pending": "Hot Deal",
+    "product": "Himalaya Green Tea 60s Classic",
+    "barcode": "Bar code ID: alapa",
+    "price": "₹300",
+    "discprice": "₹300",
+    "disc": "₹0 OFF"
+  },
+  {
+    "id": 2,
+    "lipton": {
+      "img": "https://bgstores.in/wp-content/uploads/2020/07/51SOsd5FsRL._SX679_.jpg"
+    },
+
+    "pending": "Hot Deal",
+    "product": "Lipton Green Tea Honey Lemon 100gm",
+    "barcode": "Bar code ID: pajalfa",
+    "price": "₹130",
+    "discprice": "₹130",
+    "disc": "₹0 OFF"
+  },
+  {
+    "id": 3,
+    "lipton": {
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40214242_3-colgate-maxfresh-orange-spicy-fresh-gel-toothpaste-sunrisers-hyderabad-special-edition-pack.jpg"
+    },
+
+    "pending": "Hot Deal",
+    "product": "Colgate Toothpaste Maxfresh",
+    "barcode": "Bar code ID: alkjfa",
+    "price": "₹170",
+    "discprice": "₹170",
+    "disc": "₹0 OFF"
+  },
+  {
+    "id": 4,
+    "lipton": {
+      "img": "https://rahimtraderskarachi.websites.co.in/files/164866/products/47241/dove-soap_1581532395t7NnAJ.png"
+    },
+
+    "pending": "Hot Deal",
+    "product": "Dove Cream Beauty Bathing Bar",
+    "barcode": "Bar code ID: aegfyue",
+    "price": "₹290",
+    "discprice": "₹290",
+    "disc": "₹0 OFF"
+  },
+  {
+    "id": 5,
+    "lipton": {
+      "img": "https://5.imimg.com/data5/PJ/VW/LD/GLADMIN-3061/lux-soft-touch-hand-wash-500x500.png"
+    },
+
+    "pending": "Hot Deal",
+    "product": "LUX Soft Touch",
+    "barcode": "Bar code ID: edueud",
+    "price": "₹350",
+    "discprice": "₹350",
+    "disc": "₹0 OFF"
+  },
+  {
+    "id": 6,
+    "lipton": {
+      "img": "https://m.media-amazon.com/images/I/51CXZHh+UxL.jpg"
+    },
+
+    "pending": "Hot Deal",
+    "product": "Himalaya Natural Glow Keshar Face wash",
+    "barcode": "Bar code ID: reqewc",
+    "price": "₹230",
+    "discprice": "₹230",
+    "disc": "₹0 OFF"
+  }
+]
