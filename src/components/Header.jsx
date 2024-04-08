@@ -1,15 +1,14 @@
 import { MdOutlineHeadsetMic } from "react-icons/md";
 import { BiBell } from "react-icons/bi";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSun } from '@fortawesome/free-solid-svg-icons'; // Import the sun icon
+import { FaShoppingCart } from "react-icons/fa"; // Import the shopping cart icon
 
 function Header() {
   return (
     <div className="flex items-center justify-between bg-cyan-300/80 p-4 border border-b-2 border-slate-200">
       <div className="flex items-center gap-2">
         <div className="p-2">
-          {/* Use FontAwesomeIcon component with the sun icon */}
-          <FontAwesomeIcon icon={faSun} style={{ color: "#B197FC" }} />
+          {/* Use the shopping cart icon */}
+          <FaShoppingCart style={{ color: "#B197FC" }} size={24} />
         </div>
         <div className="font-semibold">
           <p className="text-xl">Single Page</p>
