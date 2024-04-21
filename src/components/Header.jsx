@@ -1,7 +1,7 @@
-import { Helmet } from 'react-helmet';
-import { MdOutlineHeadsetMic } from 'react-icons/md';
-import { BiBell } from 'react-icons/bi';
-import { FaShoppingCart } from 'react-icons/fa'; // Import the shopping cart icon
+import { Helmet } from "react-helmet";
+import { MdOutlineHeadsetMic } from "react-icons/md";
+import { BiBell } from "react-icons/bi";
+import { FaShoppingCart } from "react-icons/fa"; // Import the shopping cart icon
 
 function Header() {
   return (
@@ -17,17 +17,20 @@ function Header() {
           content="Single Page Application, SPA, cart, contact us, notification icon"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://e-commerce-app-seven-sigma.vercel.app/" />
+        <link
+          rel="canonical"
+          href="https://e-commerce-app-seven-sigma.vercel.app/"
+        />
       </Helmet>
-      <div className="flex items-center justify-between bg-cyan-300/80 p-4 border border-b-2 border-slate-200">
+      <div className="flex items-center justify-between bg-blue-950 p-4 rounded-sm">
         <div className="flex items-center gap-2">
           <div className="p-2">
             {/* Use the shopping cart icon */}
-            <FaShoppingCart style={{ color: '#B197FC' }} size={24} />
+            <FaShoppingCart style={{ color: "#B197FC" }} size={24} />
           </div>
           <div className="font-semibold">
-            <p className="text-xl">Single Page</p>
-            <p className="text-xs text-[#aaa]">demo</p>
+            <p className="text-xl text-white">Single Page</p>
+            <p className="text-xs text-[#9A6AFF]">demo</p>
           </div>
         </div>
         <div className="flex h-10 w-15 pt-2 gap-5">

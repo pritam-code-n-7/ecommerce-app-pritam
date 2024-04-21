@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
-import { FaEdit } from "react-icons/fa";
+
 import { IoTimerOutline } from "react-icons/io5";
+import EditButton from "./EditButton";
 
 function Card({ lipton, barcode, disc, discprice, pending, price, product }) {
   return (
@@ -36,8 +37,8 @@ function Card({ lipton, barcode, disc, discprice, pending, price, product }) {
           <button className="font-light border border-black  rounded-md px-4 bg-white">
             Add to Cart
           </button>
-          <button className="border p-1 rounded-md border-black bg-white">
-            <FaEdit size="30px" />
+          <button className=" bg-white">
+            <EditButton label="Edit" />
           </button>
         </div>
       </div>
