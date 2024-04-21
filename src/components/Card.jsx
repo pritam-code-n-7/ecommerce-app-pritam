@@ -12,6 +12,7 @@ function Card({ lipton, barcode, disc, discprice, pending, price, product }) {
             <img
               src={lipton.img}
               className=" w-[170px] h-[150px] object-cover "
+              alt="fmcg products"
             />
           </div>
           <div>
